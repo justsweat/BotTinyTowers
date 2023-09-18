@@ -1,0 +1,8 @@
+.env
+.vscode
+__pycache__
+
+old
+old_2
+
+playground.py

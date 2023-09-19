@@ -98,8 +98,6 @@ You will need 2 things:
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
 1. Clone the repo
    ```sh
    git clone https://github.com/justsweat/BotTinyTowers.git
@@ -156,8 +154,6 @@ This module is used to sweep the tower from bottom to top for objects such as lu
 - gt.json - the number of golden ticket you have, used for counting coins you are making in one session
 - last_raffle.json - a date and time to note the last raffle joined
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
@@ -199,7 +195,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@Discord](https://discordapp.com/users/560864539927642130) - email@example.com
 
 Project Link: [https://github.com/justsweat/BotTinyTowers](https://github.com/justsweat/BotTinyTowers)
 
